@@ -1,6 +1,6 @@
 ### Olá, eu sou o Matheus Flávio
 
-🙋‍♂️Idade: 23 anos.
+Idade: 23 anos.
 
 🏡Cidade: Bananal SP.
 
