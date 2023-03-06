@@ -1,8 +1,10 @@
 ### Olá, eu sou o Matheus Flávio
 
-🙋🏽‍♂️Idade: 23 anos.
+My name is Matheus Flávio
 
-🏡Cidade: Bananal SP.
+🤷🏽‍♂️ I'm 23 years old
+
+🇧🇷 Brazilian 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
