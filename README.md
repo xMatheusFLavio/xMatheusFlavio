@@ -4,6 +4,8 @@ My name is Matheus Flávio
 
 🤷🏽‍♂️ I'm 24 years old
 
+👨🏽‍💻 I'm Frontend Developer
+
 🌎 Brazilian 
 
 <div style="display: inline_block"><br>
