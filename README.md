@@ -29,4 +29,4 @@ My name is Matheus Flávio
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xmatheusflavio&bg_color=000000&color=684ec6&line=8c4baa&point=c7d558&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xMatheusFlavio)](https://github.com/ashutosh00710/github-readme-activity-graph)
